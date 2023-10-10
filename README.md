@@ -1,1 +1,1 @@
-# Computational-Genomics-Class
+# Computational-Genomics-Practice
